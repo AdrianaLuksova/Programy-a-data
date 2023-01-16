@@ -1,0 +1,120 @@
+body { 
+ width: 70%;
+ margin:auto
+}
+
+header {
+ background-color: rgb(87, 87, 87);
+ padding: 15px;
+ margin: 10px 25%;
+}
+
+h1 {
+
+ color: black;
+ text-align: center;
+ text-shadow: 5px;
+ }
+
+ h1,h2,h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2,h3 {
+  color: rgb(73, 24, 63);
+ }
+
+a {
+color: rgb(54, 54, 54);
+ text-decoration: none;
+}
+a:hover {
+ background-color: azure;
+}
+
+table {
+ border: 1px solid rgb(0, 0, 0);
+ background-color: rgb(109, 109, 109);
+  text-align: center;
+ size: 100px;
+ margin: auto;
+ }
+ th {
+ border:1px solid rgb(32, 32, 32);
+ margin: 20px;
+ }
+ td {
+ border: 1px solid rgb(0, 0, 0);
+padding: 10px; }
+
+ footer{
+background-color:rgb(87, 87, 87);
+ text-align: center;
+
+}
+ hr{
+  color: rgb(112, 111, 111);
+}
+.center {
+margin: auto;
+ width: 40%;
+ }
+.text-bold {
+ font-weight: 500;
+}
+
+#myfooter {
+background-color: rgb(87, 87, 87);
+}
+h3,h2{
+text-align: center;
+text-decoration: underline;
+}
+h1{
+ text-decoration: underline;
+text-decoration-style:double ;
+text-decoration-color: rgb(73, 24, 63);
+}
+div{
+ background-color: rgb(73, 24, 63);
+ padding: 20px;
+}
+ul{
+  background-color: rgb(126, 125, 125);
+ padding: 20px;
+ margin: auto;
+}
+body{
+ background-color: rgb(54, 54, 54);
+}
+@media only screen and (max-width: 600px) {
+body {
+ background-color: rgb(99, 99, 99);
+ }
+ .container {
+width: 100%;
+
+}
+ header {
+ background-color: rgb(87, 87, 87);
+ padding: 15px;
+ margin: 10px auto; }
+}
+a{
+  color:rgb(73, 24, 63);
+}
+hr{
+  color: black;
+}
+img{
+  margin-left: 325px;
+}
+h3{
+  color: rgb(131, 60, 117);
+}
+p{
+  text-align: center;
+}
+li{
+  margin-left: 20px;
+}
